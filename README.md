@@ -15,6 +15,9 @@ For each project in the root of the folder create a .babelrc file which you can 
 
 In this repo we have included a preset module es2015 (giving us everything from there). This needs to be installed from npm.
 
+Want more info??? You should. read: http://babeljs.io/blog/2015/10/31/setting-up-babel-6/
+and just check out all the babel docs to get an idea of what babel is when you have time!
+
 # Import/Export Example
 
 check import.js and export.js and run them to see whats going on.
