@@ -1,0 +1,22 @@
+{
+  "name": "es6-playground",
+  "version": "1.0.0",
+  "description": "Place to load scripts to test out using es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrans/es6-playground.git"
+  },
+  "author": "jrans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrans/es6-playground/issues"
+  },
+  "homepage": "https://github.com/jrans/es6-playground#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.0.15"
+  }
+}
